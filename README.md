@@ -52,7 +52,7 @@ anytime_burger_frontend/
 ├── style.css
 ├── app.js
 ├── images/
-│   ├── *.jpg / *.png / *.jpeg / *.webp
+│   ├── *.jpg / *.png / *.jpeg / *.webp / *.gif
 ```
 
 ---
@@ -97,7 +97,7 @@ Data Science Undergraduate | Web Dev Enthusiast
 
 ---
 
-## 🪪 License
+## 📄 License
 
 This project is licensed under the **MIT License**.  
 You’re free to use, modify, and share with proper credit.
