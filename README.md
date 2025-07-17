@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍔 Anytime Burger – Frontend Website
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
